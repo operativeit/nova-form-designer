@@ -1,6 +1,6 @@
 {
-    "name": "eom/nova-form-designer",
-    "description": "A Laravel Nova tool.",
+    "name": "eom-plus/nova-form-designer",
+    "description": "A Laravel Nova 4 visual form designer",
     "keywords": [
         "laravel",
         "nova"
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Eom\\NovaFormDesigner\\": "src/"
+            "EomPlus\\NovaFormDesigner\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Eom\\NovaFormDesigner\\ToolServiceProvider"
+                "EomPlus\\NovaFormDesigner\\ToolServiceProvider"
             ]
         }
     },

@@ -1,6 +1,6 @@
 <?php
 
-namespace Eom\NovaFormDesigner;
+namespace EomPlus\NovaFormDesigner;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Menu\MenuSection;

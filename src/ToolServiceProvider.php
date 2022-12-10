@@ -1,13 +1,13 @@
 <?php
 
-namespace Eom\NovaFormDesigner;
+namespace EomPlus\NovaFormDesigner;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
 use Laravel\Nova\Http\Middleware\Authenticate;
 use Laravel\Nova\Nova;
-use Eom\NovaFormDesigner\Http\Middleware\Authorize;
+use EomPlus\NovaFormDesigner\Http\Middleware\Authorize;
 
 class ToolServiceProvider extends ServiceProvider
 {

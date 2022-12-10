@@ -1,9 +1,9 @@
 <?php
 
-namespace Eom\NovaFormDesigner\Http\Middleware;
+namespace EomPlus\NovaFormDesigner\Http\Middleware;
 
 use Laravel\Nova\Nova;
-use Eom\NovaFormDesigner\NovaFormDesigner;
+use EomPlus\NovaFormDesigner\NovaFormDesigner;
 
 class Authorize
 {
