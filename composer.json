@@ -5,9 +5,18 @@
         "laravel",
         "nova"
     ],
+    "authors": [
+        {
+            "name": "Sebastien CRAMATTE",
+            "email": "oss@operativeit.es",
+            "homepage": "https://operativeit.es"
+        }
+    ],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0"
+        "php": "^7.3|^8.0",
+        "laravel/nova": "^4.12",
+        "ext-json": "*"
     },
     "autoload": {
         "psr-4": {
