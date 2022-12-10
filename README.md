@@ -1,6 +1,8 @@
 # Nova Form Designer
 A Laravel Nova 4 visual form designer
 
+![image](https://user-images.githubusercontent.com/188766/206865028-7b7748ff-ca61-4daf-bb01-629140f54ade.png)
+
 ## Installation
 Same as most other Nova Packages
 
