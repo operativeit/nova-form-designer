@@ -22,5 +22,5 @@ It's in very early development stage. All comments, ideas and PR's are welcome. 
 - append all Nova's official fields
 - append more 3rd party fields
 - missing icons
-- remove Drag and Drop depencendies from v-drag-drop lib
+- remove Drag and Drop dependency from v-drag-drop lib
 - ...
