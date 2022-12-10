@@ -24,7 +24,6 @@ Before go ahead, it would be interesting to discuss design and features.
 - refactor base code
 - store/restore JSON data
 - handle form properties such validations, required, visible, placeholder, label
-- add layout management (rows, columns)
 - add layout management (rows, columns, header, footer).
 - append all Nova's official fields
 - append more 3rd party fields
