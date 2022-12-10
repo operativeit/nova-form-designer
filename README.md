@@ -23,11 +23,12 @@ Before go ahead, it would be interesting to discuss design and features.
 ## Roadmap
 - refactor base code
 - store/restore JSON data
-- handle form properties such (visible, placeholder, label, ...)
+- handle form properties such validations, required, visible, placeholder, label
 - add layout management (rows, columns)
-- add layout management (rows, columns, header, footer)
+- add layout management (rows, columns, header, footer).
 - append all Nova's official fields
 - append more 3rd party fields
 - missing icons
+- localization (i18n)
 - remove Drag and Drop dependency from v-drag-drop lib
 - ...
